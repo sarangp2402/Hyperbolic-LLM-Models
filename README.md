@@ -13,6 +13,12 @@ A collection of latest Hyperbolic LLM Models with the corresponding paper titles
 | Hyperbolic Representations for Prompt Learning  | 2024  | Content Cell  | Content Cell  |
 | Vision-Language Understanding in Hyperbolic Space  | 2024  | Content Cell  | Content Cell  |
 | Sparse Spectral Training and Inference on Euclidean and Hyperbolic Neural Networks  | 2024  | Content Cell  | Content Cell  |
-| ENHANCING MULTIMODAL SURVIVAL PREDICTION WITH PATHOLOGY REPORTS IN HYPERBOLIC SPACE  | 2024  | Content Cell  | Content Cell  |
-| ENHANCING MULTIMODAL SURVIVAL PREDICTION WITH PATHOLOGY REPORTS IN HYPERBOLIC SPACE  | 2024  | Content Cell  | Content Cell  |
-| ENHANCING MULTIMODAL SURVIVAL PREDICTION WITH PATHOLOGY REPORTS IN HYPERBOLIC SPACE  | 2024  | Content Cell  | Content Cell  |
+| Hyperbolic Learning with Multimodal Large Language Models  | 2024  | Content Cell  | Content Cell  |
+| LLMs are Good Action Recognizers  | 2024  | Content Cell  | Content Cell  |
+| Coneheads: Hierarchy Aware Attention  | 2023  | Content Cell  | Content Cell  |
+| Hyperbolic Representations of Source Code  | 2022  | Content Cell  | Content Cell  |
+| Hyperbolic Neural Networks | 2018  | Content Cell  | Content Cell  |
+| Hyperbolic sentence representations for solving Textual Entailment  | 2018  | Content Cell  | Content Cell  |
+| Representation Tradeoffs for Hyperbolic Embeddings  | 2018  | Content Cell  | Content Cell  |
+| Coneheads: Hierarchy Aware Attention  | 2023  | Content Cell  | Content Cell  |
+| Coneheads: Hierarchy Aware Attention  | 2023  | Content Cell  | Content Cell  |
