@@ -1,5 +1,5 @@
 # Hyperbolic-LLM-Models
-A collection of latest Hyperbolic LLM Models with the corresponding paper titles, years of publication, links to the code, and dataset links.
+A collection of latest Hyperbolic LLM Models with the corresponding paper titles, year of publication, links to the code, and dataset links.
 
 | Paper Titles  | Year of Publication | Code Link | Dataset Link |
 | ------------- | ------------- | ------------- | ------------- |
