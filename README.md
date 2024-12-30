@@ -3,7 +3,7 @@ A collection of latest Hyperbolic LLM Models with the corresponding paper titles
 
 | Paper Titles  | Years of Publication | Code Link | Dataset Link |
 | ------------- | ------------- | ------------- | ------------- |
-| Hyperbolic Pre-Trained Language Model  | 2024  | Content Cell  | Content Cell  |
+| Hyperbolic Pre-Trained Language Model(https://openreview.net/forum?id=5lFiIVza6x) | 2024  | Content Cell  | Content Cell  |
 | Enhancing LLM Complex Reasoning Capability through Hyperbolic Geometry  | 2024  | Content Cell  | Content Cell  |
 | Enhancing Multimodal Survival Prediction with Pathology Reports in Hyperbolic Space  | 2024  | Content Cell  | Content Cell  |
 | Language Models as Hierarchy Encoders  | 2024  | Content Cell  | Content Cell  |
