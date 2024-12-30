@@ -1,7 +1,7 @@
 # Hyperbolic-LLM-Models
 A collection of latest Hyperbolic LLM Models with the corresponding paper titles, years of publication, links to the code, and dataset links.
 
-| Paper Titles  | Years of Publication | Code Link | Dataset Link |
+| Paper Titles  | Year of Publication | Code Link | Dataset Link |
 | ------------- | ------------- | ------------- | ------------- |
 | [Hyperbolic Pre-Trained Language Model](https://ieeexplore.ieee.org/abstract/document/10542420?casa_token=nsh55f3-SI8AAAAA:lmR_eKxneMzkm0cG6dAs2vpjnmkpuw5qfYKb2EQJZoeu4WP27yo5uIwxwZ8QcnT5IHuOh_bg) | 2024  | Content Cell  | Content Cell  |
 | [Enhancing LLM Complex Reasoning Capability through Hyperbolic Geometry](https://openreview.net/forum?id=5lFiIVza6x) | 2024  | Content Cell  | Content Cell  |
