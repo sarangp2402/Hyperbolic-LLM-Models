@@ -10,6 +10,7 @@ A comprehensive collection of research papers on Hyperbolic Large Language Model
 - [Core Infrastructure](#core-infrastructure)
 
 ---
+## HypLLMs
 
 ### Hybrid Hyperbolic-Euclidean Models
 Models that integrate hyperbolic geometry with traditional Euclidean operations, typically using exponential/logarithmic mappings.
@@ -133,82 +134,4 @@ Foundational papers on large language models and transformer architectures.
 | BERT | 2019 |
 
 ---
-[/
-## Applications
 
-### Knowledge Graph Applications
-Applications to knowledge graph embeddings and reasoning.
-
-| Paper Title | Year | Code Link | Dataset Link |
-|-------------|------|-----------|--------------|
-| Neural embeddings of graphs in hyperbolic space | 2017 | [Code]() | [Dataset]() |
-
-### Brain Networks and Neuroscience Applications
-Hyperbolic models applied to brain network analysis and neuroscience research.
-
-| Paper Title | Year | Code Link | Dataset Link |
-|-------------|------|-----------|--------------|
-| Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline | 2024 | [Code]() | [Dataset]() |
-| Fully Hyperbolic Neural Networks: A Novel Approach to Studying Aging Trajectories | 2024 | [Code]() | [Dataset]() |
-| Navigating Memorability Landscapes: Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory | 2024 | [Code]() | [Dataset]() |
-| Hyperbolic geometry of the olfactory space | 2018 | [Code]() | [Dataset]() |
-| Neural manifolds for the control of movement | 2017 | [Code]() | [Dataset]() |
-| Nonlinear manifolds underlie neural population activity during behaviour | 2024 | [Code]() | [Dataset]() |
-
-### Biomedical and Healthcare Applications
-Applications of hyperbolic geometry in biomedical and healthcare domains.
-
-| Paper Title | Year | Code Link | Dataset Link |
-|-------------|------|-----------|--------------|
-| Hig2vec: hierarchical representations of gene ontology and genes in the poincar\'e | 2021 | [Code]() | [Dataset]() |
-| Hyperbolic hierarchical knowledge graph embeddings for biological entities | 2023 | [Code]() | [Dataset]() |
-
-### Computer Vision Applications
-Hyperbolic methods applied to computer vision tasks.
-
-| Paper Title | Year | Code Link | Dataset Link |
-|-------------|------|-----------|--------------|
-| Hierarchical image classification using entailment cone embeddings | 2020 | [Code]() | [Dataset]() |
-| Llms are good action recognizers | 2024 | [Code]() | [Dataset]() |
-
-### Knowledge Graph Applications
-Applications to knowledge graph embeddings and reasoning.
-
-| Paper Title | Year | Code Link | Dataset Link |
-|-------------|------|-----------|--------------|
-| Poincar\'e | 2020 | [Code]() | [Dataset]() |
-| A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers | 2024 | [Code]() | [Dataset]() |
-
-### Sequence and Time Series Applications
-Applications to sequential data and time series modeling.
-
-| Paper Title | Year | Code Link | Dataset Link |
-|-------------|------|-----------|--------------|
-| Lora: Low-rank adaptation of large language models. | 2022 | [Code](https://github.com/microsoft/LoRA) | [Dataset]() |
-| Mamba: Linear-time sequence modeling with selective state spaces | 2024 | [Code](https://github.com/state-spaces/mamba) | [Dataset]() |
-
-### Hyperbolic NLP and Language Applications
-Natural language processing applications using hyperbolic geometry.
-
-| Paper Title | Year | Code Link | Dataset Link |
-|-------------|------|-----------|--------------|
-| Zipf’s word frequency law in natural language: A critical review and future directions | 2014 | [Code]() | [Dataset]() |
-| Hyperbolic sentence representations for solving Textual Entailment | 2024 | [Code]() | [Dataset]() |
-
-### NLP and Reasoning Applications
-Natural language understanding and reasoning applications.
-
-| Paper Title | Year | Code Link | Dataset Link |
-|-------------|------|-----------|--------------|
-
-
-### General AI and ML Applications
-General artificial intelligence and machine learning applications.
-
-| Paper Title | Year | Code Link | Dataset Link |
-|-------------|------|-----------|--------------|
-| Large language models could make natural language again the universal interface of healthcare | 2024 | [Code]() | [Dataset]() |
-| Accurate structure prediction of biomolecular interactions with AlphaFold 3 | 2024 | [Code]() | [Dataset]() |
-
----
-/]
