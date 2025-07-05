@@ -3,9 +3,7 @@ A comprehensive collection of research papers on Hyperbolic Large Language Model
 
 ## Table of Contents
 - [HypLLMs](#hypllms)
-- [Foundations and Theory](#foundations-and-theory)
-- [Applications](#applications)  
-- [Core Infrastructure](#core-infrastructure)
+- [Foundations, Theory and Applications](#foundations-and-theory)
 
 ---
 ## HypLLMs
@@ -144,9 +142,6 @@ Foundational papers on large language models and transformer architectures.
 | A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers | 2024 |
 | Fully hyperbolic neural networks | 2021 | 
 | HyLiFormer: Hyperbolic Linear Attention for Skeleton-based Human Action Recognition | 2025 | 
-
----
-## Applications
 
 ### Brain Networks and Neuroscience Applications
 Hyperbolic models applied to brain network analysis and neuroscience research.
