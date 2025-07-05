@@ -121,6 +121,8 @@ Specialized approaches and technical innovations for hyperbolic learning.
 | Hyperbolic deep neural networks: A survey | 2021 | 
 | Hyperbolic attention networks | 2018 |
 | Neural embeddings of graphs in hyperbolic space | 2017 |
+| Hierarchical image classification using entailment cone embeddings | 2020 | 
+| Llms are good action recognizers | 2024 | 
 
 ### Core LLM and Transformer Foundations
 Foundational papers on large language models and transformer architectures.
@@ -128,10 +130,45 @@ Foundational papers on large language models and transformer architectures.
 | Paper Title | Year | Code Link | Dataset Link |
 |-------------|------|-----------|--------------|
 | Attention is all you need | 2017 | 
-| GPT | 2023 | [Code]() | [Dataset]() |
+| GPT | 2023 | 
 | Gemini: a family of highly capable multimodal models | 2023 | 
 | The Llama | 2024 | 
 | BERT | 2019 |
+
+### Background
+
+| Paper Title | Year | 
+|-------------|------|
+| Zipf’s word frequency law in natural language: A critical review and future directions | 2014 |
+| Hyperbolic sentence representations for solving Textual Entailment | 2024 | 
+| Large language models could make natural language again the universal interface of healthcare | 2024 | 
+| Lora: Low-rank adaptation of large language models. | 2022 |
+| Mamba: Linear-time sequence modeling with selective state spaces | 2024 |
+| A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers | 2024 |
+
+---
+## Applications
+
+### Brain Networks and Neuroscience Applications
+Hyperbolic models applied to brain network analysis and neuroscience research.
+
+| Paper Title | Year |
+|-------------|------|
+| Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline | 2024 |
+| Fully Hyperbolic Neural Networks: A Novel Approach to Studying Aging Trajectories | 2024 | 
+| Navigating Memorability Landscapes: Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory | 2024 |
+| Hyperbolic geometry of the olfactory space | 2018 |
+| Neural manifolds for the control of movement | 2017 | 
+| Nonlinear manifolds underlie neural population activity during behaviour | 2024 | 
+
+### Biomedical and Healthcare Applications
+Applications of hyperbolic geometry in biomedical and healthcare domains.
+
+| Paper Title | Year |
+|-------------|------|
+| Hig2vec: hierarchical representations of gene ontology and genes in the poincar\'e | 2021 |
+| Hyperbolic hierarchical knowledge graph embeddings for biological entities | 2023 | 
+| Accurate structure prediction of biomolecular interactions with AlphaFold 3 | 2024 |
 
 ---
 
