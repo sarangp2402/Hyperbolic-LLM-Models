@@ -1,23 +1,214 @@
 # Hyperbolic-LLM-Models
-A collection of latest Hyperbolic LLM Models with the corresponding paper titles, year of publication, links to the code, and dataset links.
-(Yet to add code and dataset links)
+A comprehensive collection of research papers on Hyperbolic Large Language Models with paper titles, publication years, code links, and dataset links. This repository organizes 74 core research papers according to the taxonomy presented in our survey paper.
 
-| Paper Titles  | Year of Publication | Code Link | Dataset Link |
-| ------------- | ------------- | ------------- | ------------- |
-| [Hyperbolic Pre-Trained Language Model](https://ieeexplore.ieee.org/abstract/document/10542420?casa_token=nsh55f3-SI8AAAAA:lmR_eKxneMzkm0cG6dAs2vpjnmkpuw5qfYKb2EQJZoeu4WP27yo5uIwxwZ8QcnT5IHuOh_bg) | 2024  | [Code](https://github.com/thunlp/hyperbolic_llm) | [Dataset]() |
-| [Enhancing LLM Complex Reasoning Capability through Hyperbolic Geometry](https://openreview.net/forum?id=5lFiIVza6x) | 2024  | [Code]() | [Dataset]() |
-| [Enhancing Multimodal Survival Prediction with Pathology Reports in Hyperbolic Space](https://openreview.net/forum?id=PbC786k7qc) | 2024  | [Code]() | [Dataset]() |
-| [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374) | 2024  | [Code](https://github.com/KRR-Oxford/HierarchyTransformers) | [Dataset]() |
-| [Hierarchical Compression of Text-Rich Graphs via Large Language Models](https://arxiv.org/abs/2406.11884) | 2024  | [Code]() | [Dataset]() |
-| [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) | 2024  | [Code](https://github.com/marlin-codes/HypLLM) | [Dataset]() |
-| [Towards expressive and robust learning with hyperbolic geometry](https://www.proquest.com/docview/3100486921?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses) | 2024  | [Code]() | [Dataset]() |
-| [Hyperbolic Representations for Prompt Learning](https://aclanthology.org/2024.lrec-main.744/) | 2024  | [Code](https://github.com/myaxxxxx/Hyperbolic-Prompt-Learning) | [Dataset]() |
-| [Vision-Language Understanding in Hyperbolic Space](https://www.amazon.science/publications/vision-language-understanding-in-hyperbolic-space) | 2024  | [Code]() | [Dataset]() |
-| [Sparse Spectral Training and Inference on Euclidean and Hyperbolic Neural Networks](https://arxiv.org/abs/2405.15481) | 2024  | [Code]() | [Dataset]() |
-| [Hyperbolic Learning with Multimodal Large Language Models](https://arxiv.org/abs/2408.05097) | 2024  | [Code]() | [Dataset]() |
-| [LLMs are Good Action Recognizers](https://openaccess.thecvf.com/content/CVPR2024/html/Qu_LLMs_are_Good_Action_Recognizers_CVPR_2024_paper.html) | 2024  | [Code]() | [Dataset]() |
-| [Coneheads: Hierarchy Aware Attention](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a17251f8d595179eef5e466b1f5f7a85-Abstract-Conference.html) | 2023  | [Code](https://github.com/tsengalb99/coneheads) | [Dataset]() |
-| [Hyperbolic Representations of Source Code](https://www.amazon.science/publications/hyperbolic-representations-of-source-code) | 2022  | [Code]() | [Dataset]() |
-| [Hyperbolic Neural Networks](https://proceedings.neurips.cc/paper/2018/hash/dbab2adc8f9d078009ee3fa810bea142-Abstract.html) | 2018  | [Code](https://github.com/dalab/hyperbolic_nn) | [Dataset]() |
-| [Hyperbolic sentence representations for solving Textual Entailment](https://arxiv.org/abs/2406.15472) | 2018  | [Code]() | [Dataset]() |
-| [Representation Tradeoffs for Hyperbolic Embeddings](https://proceedings.mlr.press/v80/sala18a.html) | 2018  | [Code](https://github.com/HazyResearch/hyperbolics?tab=readme-ov-file) | [Dataset]() |
+A comprehensive collection of research papers on Hyperbolic Large Language Models with paper titles, publication years, code links, and dataset links. This repository organizes **74 core research papers** according to the taxonomy presented in our survey paper.
+
+## Table of Contents
+- [HypLLMs](#hypllms)
+- [Foundations and Theory](#foundations-and-theory)
+- [Applications](#applications)  
+- [Core Infrastructure](#core-infrastructure)
+
+---
+
+### Hybrid Hyperbolic-Euclidean Models
+Models that integrate hyperbolic geometry with traditional Euclidean operations, typically using exponential/logarithmic mappings.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Hyperbolic pre-trained language model | 2024 | [Code](https://github.com/thunlp/hyperbolic_llm) | WordNet, SNLI |
+| Language models as hierarchy encoders | 2024 | [Code](https://github.com/KRR-Oxford/HierarchyTransformers) | WordNet, FoodOn, DOID |
+| Vision-language understanding in hyperbolic space | 2024 | [Code]() | [Dataset]() |
+| Hyperbolic Learning with Multimodal Large Language Models | 2024 | [Code]() | [Dataset]() |
+| Coneheads: Hierarchy aware attention | 2023 | [Code](https://github.com/tsengalb99/coneheads) | [Dataset]() |
+| Large Language Models Enhanced Hyperbolic Space Recommender Systems | 2025 | [Code]() | [Dataset]() |
+| Hyperbolic graph-llm alignment for exploration and exploitation in recommender systems | 2024 | [Code]() | Amazon-Books, Yelp |
+| Enhancing Multimodal Survival Prediction with Pathology Reports in Hyperbolic Space | 2024 | [Code]() | TCGA |
+| HySurvPred: Multimodal Hyperbolic Embedding with Angle-Aware Hierarchical Contrastive Learning and Uncertainty Constraints for Survival Prediction | 2025 | [Code]() | TCGA-BLCA, TCGA-BRCA, TCGA-UCEC |
+| ANTHEM: Attentive hyperbolic entity model for product search | 2022 | [Code]() | [Dataset]() |
+
+### Hyperbolic Fine-tuned Models
+Parameter-efficient fine-tuning methods that adapt pre-trained LLMs to hyperbolic space.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Hyperbolic Fine-tuning for Large Language Models | 2024 | [Code](https://github.com/marlin-codes/HypLLM) | MAWPS, SVAMP, GSM8K |
+| Enhancing llm complex reasoning capability through hyperbolic geometry | 2024 | [Code]() | [Dataset]() |
+
+### Fully Hyperbolic Models
+Models that operate entirely within hyperbolic space without requiring exponential/logarithmic mappings.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Hypformer: Exploring efficient transformer fully in hyperbolic space | 2024 | [Code](https://github.com/marlin-codes/hyperbolicTransformer) | Amazon2M, ogbn-proteins, ogbn-arxiv |
+| HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts | 2025 | [Code]() | [Dataset]() |
+| Hypercore: The core framework for building hyperbolic foundation models with comprehensive modules | 2025 | [Code](https://github.com/Graph-and-Geometric-Learning/HyperCore) | [Dataset]() |
+| Fully hyperbolic neural networks | 2021 | [Code]() | [Dataset]() |
+| HyLiFormer: Hyperbolic Linear Attention for Skeleton-based Human Action Recognition | 2025 | [Code]() | [Dataset]() |
+
+### Hyperbolic State-Space Models
+State-space models (like Mamba) extended to hyperbolic geometry for efficient sequence modeling.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings | 2025 | [Code]() | WordNet, FoodOn, DOID |
+| SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering | 2024 | [Code]() | MUSIC-AVQA, AVQA |
+| HMamba: Hyperbolic Mamba for Sequential Recommendation | 2025 | [Code]() | MovieLens-1M |
+
+---
+
+## Foundations and Theory
+
+### Hyperbolic Geometry Foundations
+Core mathematical foundations and geometric properties of hyperbolic space.
+
+| Paper Title | Year |
+|-------------|------|
+| Hyperbolic entailment cones for learning hierarchical embeddings | 2018 |
+| Hyperbolic neural networks | 2018 | [Code](https://github.com/dalab/hyperbolic_nn) | [Dataset]() |
+| Poincaré embeddings for learning hierarchical representations | 2017 | 
+| Learning continuous hierarchies in the lorentz model of hyperbolic geometry | 2018 | 
+| Hyperbolic groups | 1987 | 
+| Network geometry | 2021 | 
+
+
+### Hyperbolic Graph Neural Networks
+Graph neural networks adapted for hyperbolic space representations.
+
+| Paper Title | Year | 
+|-------------|------|
+| Hyperbolic graph neural networks | 2019 | 
+| Hyperbolic graph convolutional neural networks | 2019 | 
+| Low-Dimensional Hyperbolic Knowledge Graph Embeddings | 2020 | 
+| Fully hyperbolic graph convolution network for recommendation | 2021 | 
+| Knowledge graph representation via hierarchical hyperbolic neural graph embedding | 2021 | 
+| Hyperkg: Hyperbolic knowledge graph embeddings for knowledge base completion | 2019 | 
+| Complex hyperbolic knowledge graph embeddings with fast fourier transform | 2022 |
+
+### Riemannian Optimization Techniques
+Optimization methods for training models on Riemannian manifolds.
+
+| Paper Title | Year |
+|-------------|------|
+| Stochastic gradient descent on Riemannian manifolds | 2013 |
+| Advances in Neural Information Processing Systems | 2016 | 
+| Riemannian Accelerated Gradient Methods via Extrapolation | 2023 |
+| Riemannian Stein variational gradient descent for Bayesian inference | 2018 |
+
+### Numerical Stability and Challenges
+Research addressing computational challenges in hyperbolic representation learning.
+
+| Paper Title | Year |
+|-------------|------|
+| The Numerical Stability of Hyperbolic Representation Learning | 2023 |
+| Representation tradeoffs for hyperbolic embeddings | 2018 |
+
+
+### Specialized Techniques and Methods
+Specialized approaches and technical innovations for hyperbolic learning.
+
+| Paper Title | Year | 
+|-------------|------|
+| The hyperbolic theory of special relativity | 2011 |
+| Representing hyperbolic space accurately using multi-component floats | 2021 | 
+| Sparse Spectral Training and Inference on Euclidean and Hyperbolic Neural Networks | 2024 |
+| Adaptive data embedding for curved spaces | 2024 |
+| Poincaré GloVe | 2019 | 
+| Probing BERT in hyperbolic spaces | 2021 |
+| Hyperbolic geometry of complex networks | 2010 | 
+| Hyperbolic graph neural networks: A review of methods and applications | 2022 |
+| Hyperbolic deep neural networks: A survey | 2021 | 
+| Hyperbolic attention networks | 2018 |
+| Neural embeddings of graphs in hyperbolic space | 2017 |
+
+### Core LLM and Transformer Foundations
+Foundational papers on large language models and transformer architectures.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Attention is all you need | 2017 | 
+| GPT | 2023 | [Code]() | [Dataset]() |
+| Gemini: a family of highly capable multimodal models | 2023 | 
+| The Llama | 2024 | 
+| BERT | 2019 |
+
+---
+[/
+## Applications
+
+### Knowledge Graph Applications
+Applications to knowledge graph embeddings and reasoning.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Neural embeddings of graphs in hyperbolic space | 2017 | [Code]() | [Dataset]() |
+
+### Brain Networks and Neuroscience Applications
+Hyperbolic models applied to brain network analysis and neuroscience research.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline | 2024 | [Code]() | [Dataset]() |
+| Fully Hyperbolic Neural Networks: A Novel Approach to Studying Aging Trajectories | 2024 | [Code]() | [Dataset]() |
+| Navigating Memorability Landscapes: Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory | 2024 | [Code]() | [Dataset]() |
+| Hyperbolic geometry of the olfactory space | 2018 | [Code]() | [Dataset]() |
+| Neural manifolds for the control of movement | 2017 | [Code]() | [Dataset]() |
+| Nonlinear manifolds underlie neural population activity during behaviour | 2024 | [Code]() | [Dataset]() |
+
+### Biomedical and Healthcare Applications
+Applications of hyperbolic geometry in biomedical and healthcare domains.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Hig2vec: hierarchical representations of gene ontology and genes in the poincar\'e | 2021 | [Code]() | [Dataset]() |
+| Hyperbolic hierarchical knowledge graph embeddings for biological entities | 2023 | [Code]() | [Dataset]() |
+
+### Computer Vision Applications
+Hyperbolic methods applied to computer vision tasks.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Hierarchical image classification using entailment cone embeddings | 2020 | [Code]() | [Dataset]() |
+| Llms are good action recognizers | 2024 | [Code]() | [Dataset]() |
+
+### Knowledge Graph Applications
+Applications to knowledge graph embeddings and reasoning.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Poincar\'e | 2020 | [Code]() | [Dataset]() |
+| A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers | 2024 | [Code]() | [Dataset]() |
+
+### Sequence and Time Series Applications
+Applications to sequential data and time series modeling.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Lora: Low-rank adaptation of large language models. | 2022 | [Code](https://github.com/microsoft/LoRA) | [Dataset]() |
+| Mamba: Linear-time sequence modeling with selective state spaces | 2024 | [Code](https://github.com/state-spaces/mamba) | [Dataset]() |
+
+### Hyperbolic NLP and Language Applications
+Natural language processing applications using hyperbolic geometry.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Zipf’s word frequency law in natural language: A critical review and future directions | 2014 | [Code]() | [Dataset]() |
+| Hyperbolic sentence representations for solving Textual Entailment | 2024 | [Code]() | [Dataset]() |
+
+### NLP and Reasoning Applications
+Natural language understanding and reasoning applications.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+
+
+### General AI and ML Applications
+General artificial intelligence and machine learning applications.
+
+| Paper Title | Year | Code Link | Dataset Link |
+|-------------|------|-----------|--------------|
+| Large language models could make natural language again the universal interface of healthcare | 2024 | [Code]() | [Dataset]() |
+| Accurate structure prediction of biomolecular interactions with AlphaFold 3 | 2024 | [Code]() | [Dataset]() |
+
+---
+/]
