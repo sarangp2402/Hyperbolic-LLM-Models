@@ -52,7 +52,7 @@ State-space models (like Mamba) extended to hyperbolic geometry for efficient se
 
 ---
 
-## Foundations and Theory
+## Foundations, Theory and Applications
 
 ### Hyperbolic Geometry Foundations
 Core mathematical foundations and geometric properties of hyperbolic space.
