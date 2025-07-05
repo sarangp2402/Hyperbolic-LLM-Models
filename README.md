@@ -92,7 +92,7 @@ Optimization methods for training models on Riemannian manifolds.
 | Paper Title | Year |
 |-------------|------|
 | Stochastic gradient descent on Riemannian manifolds | 2013 |
-| Advances in Neural Information Processing Systems | 2016 | 
+| Riemannian SVRG: Fast Stochastic Optimisation on Riemannian Manifolds | 2016 | 
 | Riemannian Accelerated Gradient Methods via Extrapolation | 2023 |
 | Riemannian Stein variational gradient descent for Bayesian inference | 2018 |
 
@@ -130,9 +130,9 @@ Foundational papers on large language models and transformer architectures.
 | Paper Title | Year | Code Link | Dataset Link |
 |-------------|------|-----------|--------------|
 | Attention is all you need | 2017 | 
-| GPT | 2023 | 
+| GPT-4 Technical Report | 2023 | 
 | Gemini: a family of highly capable multimodal models | 2023 | 
-| The Llama | 2024 | 
+| The Llama 3 Herd of Models | 2024 | 
 | BERT | 2019 |
 
 ### Background
