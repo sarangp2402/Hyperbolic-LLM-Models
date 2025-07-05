@@ -1,7 +1,5 @@
 # Hyperbolic-LLM-Models
-A comprehensive collection of research papers on Hyperbolic Large Language Models with paper titles, publication years, code links, and dataset links. This repository organizes 74 core research papers according to the taxonomy presented in our survey paper.
-
-A comprehensive collection of research papers on Hyperbolic Large Language Models with paper titles, publication years, code links, and dataset links. This repository organizes **74 core research papers** according to the taxonomy presented in our survey paper.
+A comprehensive collection of research papers on Hyperbolic Large Language Models with paper titles, publication years, code links, and dataset links.
 
 ## Table of Contents
 - [HypLLMs](#hypllms)
