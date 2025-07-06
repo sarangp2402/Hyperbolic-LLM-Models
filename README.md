@@ -146,18 +146,17 @@ Hyperbolic models applied to brain network analysis and neuroscience research.
 | [Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline](https://pubmed.ncbi.nlm.nih.gov/37961615/) | 2024 |
 | [Fully Hyperbolic Neural Networks: A Novel Approach to Studying Aging Trajectories](https://www.biorxiv.org/content/10.1101/2024.10.01.616153v1) | 2024 | 
 | [Navigating Memorability Landscapes: Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory](https://www.biorxiv.org/content/10.1101/2024.09.22.614329v1) | 2024 |
-| Hyperbolic geometry of the olfactory space | 2018 |
-| Neural manifolds for the control of movement | 2017 | 
-| Nonlinear manifolds underlie neural population activity during behaviour | 2024 | 
+| [Hyperbolic geometry of the olfactory space](https://www.science.org/doi/10.1126/sciadv.aaq1458) | 2018 |
+| [Neural manifolds for the control of movement](https://www.sciencedirect.com/science/article/pii/S0896627317304634) | 2017 | 
+| [Nonlinear manifolds underlie neural population activity during behaviour](https://pubmed.ncbi.nlm.nih.gov/37503015/) | 2024 | 
 
 ### Biomedical and Healthcare Applications
 Applications of hyperbolic geometry in biomedical and healthcare domains.
 
 | Paper Title | Year |
 |-------------|------|
-| Hig2vec: hierarchical representations of gene ontology and genes in the poincar\'e | 2021 |
-| Hyperbolic hierarchical knowledge graph embeddings for biological entities | 2023 | 
-| Accurate structure prediction of biomolecular interactions with AlphaFold 3 | 2024 |
+| [Hig2vec: hierarchical representations of gene ontology and genes in the poincar\'e](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857) | 2021 |
+| [Hyperbolic hierarchical knowledge graph embeddings for biological entities](https://www.sciencedirect.com/science/article/pii/S1532046423002241) | 2023 | 
 
 ---
 
