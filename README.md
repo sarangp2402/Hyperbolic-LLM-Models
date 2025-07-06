@@ -14,31 +14,31 @@ Models that integrate hyperbolic geometry with traditional Euclidean operations,
 | Paper Title | Year | Code Link | Dataset Link |
 |-------------|------|-----------|--------------|
 | [Hyperbolic pre-trained language model](https://ieeexplore.ieee.org/document/10542420) | 2024 | [Code](https://github.com/thunlp/hyperbolic_llm) | GAP, DPR, WSC, WG, PDP, FIGER, Open Entity, CoNLL-2003, Few-NERD, TACRED, TACREV, Re-TACRED, MRQA|
-| Language models as hierarchy encoders | 2024 | [Code](https://github.com/KRR-Oxford/HierarchyTransformers) | WordNet, FoodOn, DOID, SNOMED |
-| Vision-language understanding in hyperbolic space | 2024 | - | Food-101, CIFAR-10, CIFAR-100, CUB-200-2011, SUN397, Aircraft, DTD, Pets, Caltech-101, Flowers, STL-10, EuroSAT, RESISC45, Country211, MNIST, CLEVR, PCam, SST2|
-| Hyperbolic Learning with Multimodal Large Language Models | 2024 | - | MS COCO |
-| Coneheads: Hierarchy aware attention | 2023 | [Code](https://github.com/tsengalb99/coneheads) | IWSLT, ImageNet, Cora, PPI|
-| Large Language Models Enhanced Hyperbolic Space Recommender Systems | 2025 | [Code](https://github.com/Qin-lab-code/HyperLLM) | Amazon-Toys, Amazon-Sports, Amazon-Beauty|
-| Hyperbolic graph-llm alignment for exploration and exploitation in recommender systems | 2024 | [Code](https://github.com/Martin-qyma/HERec) | Amazon-Books, Yelp, Google-Reviews|
-| Enhancing Multimodal Survival Prediction with Pathology Reports in Hyperbolic Space | 2024 | - | TCGA |
-| HySurvPred: Multimodal Hyperbolic Embedding with Angle-Aware Hierarchical Contrastive Learning and Uncertainty Constraints for Survival Prediction | 2025 | - | TCGA |
-| ANTHEM: Attentive hyperbolic entity model for product search | 2022 | [Code](https://github.com/amazon-science/hyperbolic-embeddings) | E-commerce search data |
+| [Language models as hierarchy encoders](https://openreview.net/forum?id=GJMYvWzjE1&referrer=%5Bthe%20profile%20of%20Yuan%20He%5D(%2Fprofile%3Fid%3D~Yuan_He5)) | 2024 | [Code](https://github.com/KRR-Oxford/HierarchyTransformers) | WordNet, FoodOn, DOID, SNOMED |
+| [Vision-language understanding in hyperbolic space](https://www.amazon.science/publications/vision-language-understanding-in-hyperbolic-space) | 2024 | - | Food-101, CIFAR-10, CIFAR-100, CUB-200-2011, SUN397, Aircraft, DTD, Pets, Caltech-101, Flowers, STL-10, EuroSAT, RESISC45, Country211, MNIST, CLEVR, PCam, SST2|
+| [Hyperbolic Learning with Multimodal Large Language Models](https://arxiv.org/abs/2408.05097) | 2024 | - | MS COCO |
+| [Coneheads: Hierarchy aware attention](https://arxiv.org/abs/2306.00392) | 2023 | [Code](https://github.com/tsengalb99/coneheads) | IWSLT, ImageNet, Cora, PPI|
+| [Large Language Models Enhanced Hyperbolic Space Recommender Systems](https://arxiv.org/abs/2504.05694) | 2025 | [Code](https://github.com/Qin-lab-code/HyperLLM) | Amazon-Toys, Amazon-Sports, Amazon-Beauty|
+| [Hyperbolic graph-llm alignment for exploration and exploitation in recommender systems](https://arxiv.org/abs/2411.13865) | 2024 | [Code](https://github.com/Martin-qyma/HERec) | Amazon-Books, Yelp, Google-Reviews|
+| [Enhancing Multimodal Survival Prediction with Pathology Reports in Hyperbolic Space](https://openreview.net/forum?id=PbC786k7qc) | 2024 | - | TCGA |
+| [HySurvPred: Multimodal Hyperbolic Embedding with Angle-Aware Hierarchical Contrastive Learning and Uncertainty Constraints for Survival Prediction](https://arxiv.org/abs/2503.13862) | 2025 | - | TCGA |
+| [ANTHEM: Attentive hyperbolic entity model for product search](https://dl.acm.org/doi/abs/10.1145/3488560.3498456) | 2022 | [Code](https://github.com/amazon-science/hyperbolic-embeddings) | E-commerce search data |
 
 ### Hyperbolic Fine-tuned Models
 Parameter-efficient fine-tuning methods that adapt pre-trained LLMs to hyperbolic space.
 
 | Paper Title | Year | Code Link | Dataset Link |
 |-------------|------|-----------|--------------|
-| Hyperbolic Fine-tuning for Large Language Models | 2024 | [Code](https://github.com/marlin-codes/HypLLM) | MAWPS, SVAMP, GSM8K, AQuA|
-| Enhancing llm complex reasoning capability through hyperbolic geometry | 2024 | - | MAWPS, SVAMP, GSM8K, AQuA|
+| [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) | 2024 | [Code](https://github.com/marlin-codes/HypLLM) | MAWPS, SVAMP, GSM8K, AQuA|
+| [Enhancing llm complex reasoning capability through hyperbolic geometry](https://openreview.net/forum?id=5lFiIVza6x&referrer=%5Bthe%20profile%20of%20Rex%20Ying%5D(%2Fprofile%3Fid%3D~Rex_Ying1)) | 2024 | - | MAWPS, SVAMP, GSM8K, AQuA|
 
 ### Fully Hyperbolic Models
 Models that operate entirely within hyperbolic space.
 | Paper Title | Year | Code Link | Dataset Link |
 |-------------|------|-----------|--------------|
-| Hypformer: Exploring efficient transformer fully in hyperbolic space | 2024 | [Code](https://github.com/marlin-codes/hyperbolicTransformer) | Amazon2M, ogbn-proteins, ogbn-arxiv, ogbn-papers100M|
-| HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts | 2025 | [Code](https://github.com/graph-and-geometric-learning/helm) | MMLU, ARC-Challenging, CommonsenseQA, HellaSwag, OpenBookQA |
-| Hypercore: The core framework for building hyperbolic foundation models with comprehensive modules | 2025 | [Code](https://github.com/Graph-and-Geometric-Learning/HyperCore) | CIFAR-10, CIFAR-100, ImageNet, RedCaps, WebQSP|
+| [Hypformer: Exploring efficient transformer fully in hyperbolic space](https://arxiv.org/abs/2407.01290) | 2024 | [Code](https://github.com/marlin-codes/hyperbolicTransformer) | Amazon2M, ogbn-proteins, ogbn-arxiv, ogbn-papers100M|
+| [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722) | 2025 | [Code](https://github.com/graph-and-geometric-learning/helm) | MMLU, ARC-Challenging, CommonsenseQA, HellaSwag, OpenBookQA |
+| [Hypercore: The core framework for building hyperbolic foundation models with comprehensive modules](https://arxiv.org/abs/2504.08912) | 2025 | [Code](https://github.com/Graph-and-Geometric-Learning/HyperCore) | CIFAR-10, CIFAR-100, ImageNet, RedCaps, WebQSP|
 
 
 ### Hyperbolic State-Space Models
@@ -46,9 +46,9 @@ State-space models (like Mamba) extended to hyperbolic geometry for efficient se
 
 | Paper Title | Year | Code Link | Dataset Link |
 |-------------|------|-----------|--------------|
-| Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings | 2025 | [Code](https://github.com/BerryByte/HiM) | WordNet, FoodOn, DOID, SNOMED |
-| SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering | 2024 | - | MUSIC-AVQA, AVQA |
-| HMamba: Hyperbolic Mamba for Sequential Recommendation | 2025 | - | MovieLens-1M, Texas, California, New York |
+| [Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings](https://arxiv.org/abs/2505.18973) | 2025 | [Code](https://github.com/BerryByte/HiM) | WordNet, FoodOn, DOID, SNOMED |
+| [SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering](https://arxiv.org/abs/2406.09833) | 2024 | - | MUSIC-AVQA, AVQA |
+| [HMamba: Hyperbolic Mamba for Sequential Recommendation](https://arxiv.org/abs/2505.09205) | 2025 | - | MovieLens-1M, Texas, California, New York |
 
 ---
 
@@ -59,20 +59,20 @@ Core mathematical foundations and geometric properties of hyperbolic space.
 
 | Paper Title | Year |
 |-------------|------|
-| Hyperbolic entailment cones for learning hierarchical embeddings | 2018 |
-| Hyperbolic neural networks | 2018 | 
-| Poincaré embeddings for learning hierarchical representations | 2017 | 
-| Learning continuous hierarchies in the lorentz model of hyperbolic geometry | 2018 | 
-| Hyperbolic groups | 1987 | 
-| Network geometry | 2021 | 
+| [Hyperbolic entailment cones for learning hierarchical embeddings](https://proceedings.mlr.press/v80/ganea18a.html) | 2018 |
+| [Hyperbolic neural networks](https://papers.nips.cc/paper_files/paper/2018/hash/dbab2adc8f9d078009ee3fa810bea142-Abstract.html) | 2018 | 
+| [Poincaré embeddings for learning hierarchical representations](https://papers.nips.cc/paper_files/paper/2017/hash/59dfa2df42d9e3d41f5b02bfc32229dd-Abstract.html) | 2017 | 
+| [Learning continuous hierarchies in the lorentz model of hyperbolic geometry](https://arxiv.org/abs/1806.03417) | 2018 | 
+| [Hyperbolic groups](https://link.springer.com/chapter/10.1007/978-1-4613-9586-7_3) | 1987 | 
+| [Network geometry](https://www.nature.com/articles/s42254-020-00264-4) | 2021 | 
 
 ### Background/Motivation
 
 | Paper Title | Year | 
 |-------------|------|
-| Zipf’s word frequency law in natural language: A critical review and future directions | 2014 |
-| Hyperbolic sentence representations for solving Textual Entailment | 2024 | 
-| Large language models could make natural language again the universal interface of healthcare | 2024 | 
+| [Zipf’s word frequency law in natural language: A critical review and future directions](https://link.springer.com/article/10.3758/s13423-014-0585-6) | 2014 |
+| [Hyperbolic sentence representations for solving Textual Entailment](https://arxiv.org/abs/2406.15472) | 2024 | 
+| [Large language models could make natural language again the universal interface of healthcare](https://www.nature.com/articles/s41591-024-03199-w) | 2024 | 
 
 ### Hyperbolic Graph Neural Networks
 Graph neural networks adapted for hyperbolic space representations.
