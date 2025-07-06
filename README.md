@@ -79,14 +79,14 @@ Graph neural networks adapted for hyperbolic space representations.
 
 | Paper Title | Year | 
 |-------------|------|
-| Hyperbolic graph neural networks | 2019 | 
-| Hyperbolic graph convolutional neural networks | 2019 | 
-| Low-Dimensional Hyperbolic Knowledge Graph Embeddings | 2020 | 
-| Fully hyperbolic graph convolution network for recommendation | 2021 | 
-| Knowledge graph representation via hierarchical hyperbolic neural graph embedding | 2021 | 
-| Hyperkg: Hyperbolic knowledge graph embeddings for knowledge base completion | 2019 | 
-| Complex hyperbolic knowledge graph embeddings with fast fourier transform | 2022 |
-| Hyperbolic graph neural networks: A review of methods and applications | 2022 |
+| [Hyperbolic graph neural networks](https://arxiv.org/abs/1910.12892) | 2019 | 
+| [Hyperbolic graph convolutional neural networks](https://papers.nips.cc/paper_files/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html) | 2019 | 
+| [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://aclanthology.org/2020.acl-main.617/) | 2020 | 
+| [Fully hyperbolic graph convolution network for recommendation](https://dl.acm.org/doi/10.1145/3459637.3482109) | 2021 | 
+| [Knowledge graph representation via hierarchical hyperbolic neural graph embedding](https://ieeexplore.ieee.org/document/9671651) | 2021 | 
+| [Hyperkg: Hyperbolic knowledge graph embeddings for knowledge base completion](https://arxiv.org/abs/1908.04895) | 2019 | 
+| [Complex hyperbolic knowledge graph embeddings with fast fourier transform](https://arxiv.org/abs/2211.03635) | 2022 |
+| [Hyperbolic graph neural networks: A review of methods and applications](https://arxiv.org/abs/2202.13852) | 2022 |
 
 
 ### Riemannian Optimization Techniques
@@ -94,18 +94,18 @@ Optimization methods for training models on Riemannian manifolds.
 
 | Paper Title | Year |
 |-------------|------|
-| Stochastic gradient descent on Riemannian manifolds | 2013 |
-| Riemannian SVRG: Fast Stochastic Optimisation on Riemannian Manifolds | 2016 | 
-| Riemannian Accelerated Gradient Methods via Extrapolation | 2023 |
-| Riemannian Stein variational gradient descent for Bayesian inference | 2018 |
+| [Stochastic gradient descent on Riemannian manifolds](https://ieeexplore.ieee.org/document/6487381) | 2013 |
+| [Riemannian SVRG: Fast Stochastic Optimisation on Riemannian Manifolds](https://papers.nips.cc/paper_files/paper/2016/hash/98e6f17209029f4ae6dc9d88ec8eac2c-Abstract.html) | 2016 | 
+| [Riemannian Accelerated Gradient Methods via Extrapolation](https://proceedings.mlr.press/v206/han23a.html) | 2023 |
+| [Riemannian Stein variational gradient descent for Bayesian inference](https://ojs.aaai.org/index.php/AAAI/article/view/11810) | 2018 |
 
 ### Numerical Stability and Challenges
 Research addressing computational challenges in hyperbolic representation learning.
 
 | Paper Title | Year |
 |-------------|------|
-| The Numerical Stability of Hyperbolic Representation Learning | 2023 |
-| Representation tradeoffs for hyperbolic embeddings | 2018 |
+| [The Numerical Stability of Hyperbolic Representation Learning](https://proceedings.mlr.press/v202/mishne23a.html) | 2023 |
+| [Representation tradeoffs for hyperbolic embeddings](https://proceedings.mlr.press/v80/sala18a.html) | 2018 |
 
 
 ### Specialized Techniques and Methods
