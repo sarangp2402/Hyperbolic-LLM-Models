@@ -27,27 +27,27 @@ Models that integrate hyperbolic geometry with traditional Euclidean operations,
 ### Hyperbolic Fine-tuned Models
 Parameter-efficient fine-tuning methods that adapt pre-trained LLMs to hyperbolic space.
 
-| Paper Title | Year | Journal/Conference | Code Link | Dataset Link |
+| Paper Title | Year | Journal/ Conference | Code Link | Dataset Link |
 |-------------|------|---------|-----------|--------------|
-| [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) | 2024 | arXiv | [Code](https://github.com/marlin-codes/HypLLM) | MAWPS, SVAMP, GSM8K, AQuA|
-| [Enhancing llm complex reasoning capability through hyperbolic geometry](https://openreview.net/forum?id=5lFiIVza6x&referrer=%5Bthe%20profile%20of%20Rex%20Ying%5D(%2Fprofile%3Fid%3D~Rex_Ying1)) | 2024 | PMLR | - | MAWPS, SVAMP, GSM8K, AQuA|
+| [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) | 2024 | arXiv | [Code](https://github.com/marlin-codes/HypLLM) | [MAWPS](https://github.com/sroy9/mawps), [SVAMP](https://github.com/arkilpatel/SVAMP), [GSM8K](https://github.com/openai/grade-school-math), [AQuA](https://github.com/google-deepmind/AQuA)|
+| [Enhancing llm complex reasoning capability through hyperbolic geometry](https://openreview.net/forum?id=5lFiIVza6x&referrer=%5Bthe%20profile%20of%20Rex%20Ying%5D(%2Fprofile%3Fid%3D~Rex_Ying1)) | 2024 | PMLR | - | [MAWPS](https://github.com/sroy9/mawps), [SVAMP](https://github.com/arkilpatel/SVAMP), [GSM8K](https://github.com/openai/grade-school-math), [AQuA](https://github.com/google-deepmind/AQuA)|
 
 ### Fully Hyperbolic Models
 Models that operate entirely within hyperbolic space.
-| Paper Title | Year | Journal/Conference | Code Link | Dataset Link |
+| Paper Title | Year | Journal/ Conference | Code Link | Dataset Link |
 |-------------|------|---------|-----------|--------------|
-| [Hypformer: Exploring efficient transformer fully in hyperbolic space](https://arxiv.org/abs/2407.01290) | 2024 | KDD | [Code](https://github.com/marlin-codes/hyperbolicTransformer) | Amazon2M, ogbn-proteins, ogbn-arxiv, ogbn-papers100M|
-| [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722) | 2025 | arXiv | [Code](https://github.com/graph-and-geometric-learning/helm) | MMLU, ARC-Challenging, CommonsenseQA, HellaSwag, OpenBookQA |
-| [Hypercore: The core framework for building hyperbolic foundation models with comprehensive modules](https://arxiv.org/abs/2504.08912) | 2025 | arXiv | [Code](https://github.com/Graph-and-Geometric-Learning/HyperCore) | [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html), [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html), [ImageNet](https://image-net.org/index.php), RedCaps, WebQSP|
+| [Hypformer: Exploring efficient transformer fully in hyperbolic space](https://arxiv.org/abs/2407.01290) | 2024 | KDD | [Code](https://github.com/marlin-codes/hyperbolicTransformer) | [Amazon2M](https://ogb.stanford.edu/docs/nodeprop/), [ogbn-proteins](https://ogb.stanford.edu/docs/nodeprop/), [ogbn-arxiv](https://ogb.stanford.edu/docs/nodeprop/), [ogbn-papers100M](https://ogb.stanford.edu/docs/nodeprop/)|
+| [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722) | 2025 | arXiv | [Code](https://github.com/graph-and-geometric-learning/helm) | [MMLU](https://github.com/hendrycks/test?tab=readme-ov-file), [ARC-Challenging](https://huggingface.co/datasets/allenai/ai2_arc), [CommonsenseQA](https://huggingface.co/datasets/tau/commonsense_qa), [HellaSwag](https://rowanzellers.com/hellaswag/), [OpenBookQA](https://huggingface.co/datasets/allenai/openbookqa) |
+| [Hypercore: The core framework for building hyperbolic foundation models with comprehensive modules](https://arxiv.org/abs/2504.08912) | 2025 | arXiv | [Code](https://github.com/Graph-and-Geometric-Learning/HyperCore) | [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html), [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html), [ImageNet](https://image-net.org/index.php), [RedCaps](https://redcaps.xyz/), [WebQSP](https://www.microsoft.com/en-us/download/details.aspx?id=52763)|
 
 ### Hyperbolic State-Space Models
 State-space models (like Mamba) extended to hyperbolic geometry for efficient sequence modeling.
 
-| Paper Title | Year | Journal/Conference | Code Link | Dataset Link |
+| Paper Title | Year | Journal/ Conference | Code Link | Dataset Link |
 |-------------|------|---------|-----------|--------------|
-| [SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering](https://arxiv.org/abs/2406.09833) | 2024 | arXiv | - | MUSIC-AVQA, AVQA |
+| [SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering](https://arxiv.org/abs/2406.09833) | 2024 | arXiv | - | [MUSIC-AVQA](https://gewu-lab.github.io/MUSIC-AVQA/), [AVQA](https://mn.cs.tsinghua.edu.cn/avqa/) |
 | [Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings](https://arxiv.org/abs/2505.18973) | 2025 | arXiv | [Code](https://github.com/BerryByte/HiM) | [WordNet](https://zenodo.org/records/14036213), [FoodOn](https://zenodo.org/records/14036213), [DOID](https://zenodo.org/records/14036213), [SNOMED](https://zenodo.org/records/14036213) |
-| [HMamba: Hyperbolic Mamba for Sequential Recommendation](https://arxiv.org/abs/2505.09205) | 2025 | arXiv | - | MovieLens-1M, Texas, California, New York |
+| [HMamba: Hyperbolic Mamba for Sequential Recommendation](https://arxiv.org/abs/2505.09205) | 2025 | arXiv | - | [MovieLens-1M](https://grouplens.org/datasets/movielens/1m/), Texas, California, New York |
 
 ---
 
@@ -56,7 +56,7 @@ State-space models (like Mamba) extended to hyperbolic geometry for efficient se
 ### Hyperbolic Geometry Foundations
 Core mathematical foundations and geometric properties of hyperbolic space.
 
-| Paper Title | Year | Journal/Conference |
+| Paper Title | Year | Journal/ Conference |
 |-------------|------|---------|
 | [Hyperbolic groups](https://link.springer.com/chapter/10.1007/978-1-4613-9586-7_3) | 1987 |  Essays in group theory |
 | [Poincaré embeddings for learning hierarchical representations](https://papers.nips.cc/paper_files/paper/2017/hash/59dfa2df42d9e3d41f5b02bfc32229dd-Abstract.html) | 2017 | NeurIPS |
@@ -67,7 +67,7 @@ Core mathematical foundations and geometric properties of hyperbolic space.
 
 ### Background/Motivation
 
-| Paper Title | Year | Journal/Conference | 
+| Paper Title | Year | Journal/ Conference | 
 |-------------|------|---------|
 | [Zipf’s word frequency law in natural language: A critical review and future directions](https://link.springer.com/article/10.3758/s13423-014-0585-6) | 2014 | Psychon. Bull. Rev. |
 | [Hyperbolic sentence representations for solving Textual Entailment](https://arxiv.org/abs/2406.15472) | 2024 |  arXiv |
@@ -76,7 +76,7 @@ Core mathematical foundations and geometric properties of hyperbolic space.
 ### Hyperbolic Graph Neural Networks
 Graph neural networks adapted for hyperbolic space representations.
 
-| Paper Title | Year | Journal/Conference |
+| Paper Title | Year | Journal/ Conference |
 |-------------|------|---------|
 | [Hyperbolic graph neural networks](https://papers.nips.cc/paper_files/paper/2019/hash/103303dd56a731e377d01f6a37badae3-Abstract.html) | 2019 | NeurIPS |
 | [Hyperkg: Hyperbolic knowledge graph embeddings for knowledge base completion](https://arxiv.org/abs/1908.04895) | 2019 | arXiv | 
@@ -90,7 +90,7 @@ Graph neural networks adapted for hyperbolic space representations.
 ### Riemannian Optimization Techniques
 Optimization methods for training models on Riemannian manifolds.
 
-| Paper Title | Year | Journal/Conference |
+| Paper Title | Year | Journal/ Conference |
 |-------------|------|---------|
 | [Stochastic gradient descent on Riemannian manifolds](https://ieeexplore.ieee.org/document/6487381) | 2013 | IEEE |
 | [Riemannian SVRG: Fast Stochastic Optimisation on Riemannian Manifolds](https://papers.nips.cc/paper_files/paper/2016/hash/98e6f17209029f4ae6dc9d88ec8eac2c-Abstract.html) | 2016 | NeurIPS |
@@ -100,7 +100,7 @@ Optimization methods for training models on Riemannian manifolds.
 ### Numerical Stability and Challenges
 Research addressing computational challenges in hyperbolic representation learning.
 
-| Paper Title | Year | Journal/Conference |
+| Paper Title | Year | Journal/ Conference |
 |-------------|------|---------|
 | [Representation tradeoffs for hyperbolic embeddings](https://proceedings.mlr.press/v80/sala18a.html) | 2018 | ICML |
 | [The Numerical Stability of Hyperbolic Representation Learning](https://proceedings.mlr.press/v202/mishne23a.html) | 2023 | ICML |
@@ -108,7 +108,7 @@ Research addressing computational challenges in hyperbolic representation learni
 ### Specialized Techniques and Methods
 Specialized approaches and technical innovations for hyperbolic learning.
 
-| Paper Title | Year | Journal/Conference | 
+| Paper Title | Year | Journal/ Conference | 
 |-------------|------|---------|
 | [Hyperbolic geometry of complex networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.82.036106) | 2010 |Physical Review E |
 | [The hyperbolic theory of special relativity](https://arxiv.org/abs/1102.0462) | 2011 | arXiv |
@@ -125,7 +125,7 @@ Specialized approaches and technical innovations for hyperbolic learning.
 
 ### Core LLM, Transformer and Mamba Foundations
 
-| Paper Title | Year | Journal/Conference |
+| Paper Title | Year | Journal/ Conference |
 |-------------|------|---------|
 | [Attention is all you need](https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | 2017 | NeurIPS |
 | [BERT: Pre-training of deep bidirectional transformers for language understanding](https://aclanthology.org/N19-1423/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_m9bbH_7ECE1h3lZ3D61TYg52rKpifVNjL4fvJ85uqggrXsWDBTB7YooFLJeNXHWqhvOyC) | 2019 | NAACL-HLT |
@@ -138,7 +138,7 @@ Specialized approaches and technical innovations for hyperbolic learning.
 ### Brain Networks and Neuroscience Applications
 Hyperbolic models applied to brain network analysis and neuroscience research.
 
-| Paper Title | Year | Journal/Conference |
+| Paper Title | Year | Journal/ Conference |
 |-------------|------|---------|
 | [Neural manifolds for the control of movement](https://www.sciencedirect.com/science/article/pii/S0896627317304634) | 2017 | Neuron |
 | [Hyperbolic geometry of the olfactory space](https://www.science.org/doi/10.1126/sciadv.aaq1458) | 2018 | AAAS |
@@ -150,7 +150,7 @@ Hyperbolic models applied to brain network analysis and neuroscience research.
 ### Biomedical and Healthcare Applications
 Applications of hyperbolic geometry in biomedical and healthcare domains.
 
-| Paper Title | Year | Journal/Conference |
+| Paper Title | Year | Journal/ Conference |
 |-------------|------|---------|
 | [Hig2vec: hierarchical representations of gene ontology and genes in the poincar\'e](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857) | 2021 | Bioinformatics |
 | [Hyperbolic hierarchical knowledge graph embeddings for biological entities](https://www.sciencedirect.com/science/article/pii/S1532046423002241) | 2023 | JBI |
