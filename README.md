@@ -128,7 +128,6 @@ Specialized approaches and technical innovations for hyperbolic learning.
 | Hierarchical image classification using entailment cone embeddings | 2020 | 
 
 ### Core LLM, Transformer and Mamba Foundations
-Foundational papers on large language models and transformer architectures.
 
 | Paper Title | Year | Code Link | Dataset Link |
 |-------------|------|-----------|--------------|
