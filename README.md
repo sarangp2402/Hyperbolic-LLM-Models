@@ -13,7 +13,7 @@ Models that integrate hyperbolic geometry with traditional Euclidean operations,
 
 | Paper Title | Year | Code Link | Dataset Link |
 |-------------|------|-----------|--------------|
-| Hyperbolic pre-trained language model | 2024 | [Code](https://github.com/thunlp/hyperbolic_llm) | GAP, DPR, WSC, WG, PDP, FIGER, Open Entity, CoNLL-2003, Few-NERD, TACRED, TACREV, Re-TACRED, MRQA|
+| [Hyperbolic pre-trained language model](https://ieeexplore.ieee.org/document/10542420) | 2024 | [Code](https://github.com/thunlp/hyperbolic_llm) | GAP, DPR, WSC, WG, PDP, FIGER, Open Entity, CoNLL-2003, Few-NERD, TACRED, TACREV, Re-TACRED, MRQA|
 | Language models as hierarchy encoders | 2024 | [Code](https://github.com/KRR-Oxford/HierarchyTransformers) | WordNet, FoodOn, DOID, SNOMED |
 | Vision-language understanding in hyperbolic space | 2024 | - | Food-101, CIFAR-10, CIFAR-100, CUB-200-2011, SUN397, Aircraft, DTD, Pets, Caltech-101, Flowers, STL-10, EuroSAT, RESISC45, Country211, MNIST, CLEVR, PCam, SST2|
 | Hyperbolic Learning with Multimodal Large Language Models | 2024 | - | MS COCO |
