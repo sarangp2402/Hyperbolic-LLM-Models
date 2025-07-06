@@ -12,7 +12,7 @@ A comprehensive collection of research papers on Hyperbolic Large Language Model
 Models that integrate hyperbolic geometry with traditional Euclidean operations, typically using exponential/logarithmic mappings.
 
 | Paper Title | Year | Journal/Conference | Code Link | Dataset Link |
-|-------------|------|---------|-----------|--------------|
+|-------------|------|------|-----------|--------------|
 | [Hyperbolic pre-trained language model](https://ieeexplore.ieee.org/document/10542420) | 2024 | IEEE | [Code](https://github.com/thunlp/hyperbolic_llm) | GAP, DPR, WSC, WG, PDP, FIGER, Open Entity, CoNLL-2003, Few-NERD, TACRED, TACREV, Re-TACRED, MRQA|
 | [Language models as hierarchy encoders](https://openreview.net/forum?id=GJMYvWzjE1&referrer=%5Bthe%20profile%20of%20Yuan%20He%5D(%2Fprofile%3Fid%3D~Yuan_He5)) | 2024 | NeurIPS | [Code](https://github.com/KRR-Oxford/HierarchyTransformers) | WordNet, FoodOn, DOID, SNOMED |
 | [Vision-language understanding in hyperbolic space](https://www.amazon.science/publications/vision-language-understanding-in-hyperbolic-space) | 2024 | SIGIR |- | Food-101, CIFAR-10, CIFAR-100, CUB-200-2011, SUN397, Aircraft, DTD, Pets, Caltech-101, Flowers, STL-10, EuroSAT, RESISC45, Country211, MNIST, CLEVR, PCam, SST2|
