@@ -11,7 +11,7 @@ A comprehensive collection of research papers on Hyperbolic Large Language Model
 ### Hybrid Hyperbolic-Euclidean Models
 Models that integrate hyperbolic geometry with traditional Euclidean operations, typically using exponential/logarithmic mappings.
 
-| Paper Title | Year | Journal/Conference | Code Link | Dataset Link |
+| Paper Title | Year | Journal/ Conference | Code Link | Dataset Link |
 |-------------|------|---------|-----------|--------------|
 | [ANTHEM: Attentive hyperbolic entity model for product search](https://dl.acm.org/doi/abs/10.1145/3488560.3498456) | 2022 | WSDM | [Code](https://github.com/amazon-science/hyperbolic-embeddings) | E-commerce search data |
 | [Coneheads: Hierarchy aware attention](https://arxiv.org/abs/2306.00392) | 2023 | NeurIPS | [Code](https://github.com/tsengalb99/coneheads) | [IWSLT](https://huggingface.co/datasets/bbaaaa/iwslt14-de-en), [ImageNet](https://image-net.org/index.php), [Cora](https://graphsandnetworks.com/the-cora-dataset/), [PPI](https://snap.stanford.edu/graphsage/#datasets)|
