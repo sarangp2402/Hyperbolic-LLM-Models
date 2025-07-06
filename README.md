@@ -113,41 +113,39 @@ Specialized approaches and technical innovations for hyperbolic learning.
 
 | Paper Title | Year | 
 |-------------|------|
-| The hyperbolic theory of special relativity | 2011 |
-| Representing hyperbolic space accurately using multi-component floats | 2021 | 
-| Sparse Spectral Training and Inference on Euclidean and Hyperbolic Neural Networks | 2024 |
-| Adaptive data embedding for curved spaces | 2024 |
-| Poincaré GloVe | 2019 | 
-| Probing BERT in hyperbolic spaces | 2021 |
-| Hyperbolic geometry of complex networks | 2010 | 
-| Hyperbolic deep neural networks: A survey | 2021 | 
-| Hyperbolic attention networks | 2018 |
-| Fully hyperbolic neural networks | 2021 | 
-| HyLiFormer: Hyperbolic Linear Attention for Skeleton-based Human Action Recognition | 2025 | 
-| Neural embeddings of graphs in hyperbolic space | 2017 |
-| Hierarchical image classification using entailment cone embeddings | 2020 | 
+| [The hyperbolic theory of special relativity](https://arxiv.org/abs/1102.0462) | 2011 |
+| [Representing hyperbolic space accurately using multi-component floats](https://proceedings.neurips.cc/paper/2021/hash/832353270aacb6e3322f493a66aaf5b9-Abstract.html) | 2021 | 
+| [Sparse Spectral Training and Inference on Euclidean and Hyperbolic Neural Networks](https://arxiv.org/abs/2405.15481) | 2024 |
+| [Adaptive data embedding for curved spaces](https://www.sciencedirect.com/science/article/pii/S258900422402491X) | 2024 |
+| [Poincaré GloVe: Hyperbolic word embedding](https://openreview.net/forum?id=Ske5r3AqK7) | 2019 | 
+| [Probing BERT in hyperbolic spaces](https://arxiv.org/abs/2104.03869) | 2021 |
+| [Hyperbolic geometry of complex networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.82.036106) | 2010 | 
+| [Hyperbolic attention networks](https://arxiv.org/abs/1805.09786) | 2018 |
+| [Fully hyperbolic neural networks](https://arxiv.org/abs/2105.14686) | 2021 | 
+| [HyLiFormer: Hyperbolic Linear Attention for Skeleton-based Human Action Recognition](https://arxiv.org/abs/2502.05869) | 2025 | 
+| [Neural embeddings of graphs in hyperbolic space](https://arxiv.org/abs/1705.10359) | 2017 |
+| [Hierarchical image classification using entailment cone embeddings](https://arxiv.org/abs/2004.03459) | 2020 | 
 
 ### Core LLM, Transformer and Mamba Foundations
 
 | Paper Title | Year | Code Link | Dataset Link |
 |-------------|------|-----------|--------------|
-| Attention is all you need | 2017 | 
-| GPT-4 Technical Report | 2023 | 
-| Gemini: a family of highly capable multimodal models | 2023 | 
-| The Llama 3 Herd of Models | 2024 | 
-| BERT: Pre-training of deep bidirectional transformers for language understanding | 2019 |
-| Lora: Low-rank adaptation of large language models. | 2022 |
-| Mamba: Linear-time sequence modeling with selective state spaces | 2024 |
-| A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers | 2024 |
+| [Attention is all you need](https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | 2017 | 
+| [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) | 2023 | 
+| [Gemini: a family of highly capable multimodal models](https://arxiv.org/abs/2312.11805) | 2023 | 
+| [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) | 2024 | 
+| [BERT: Pre-training of deep bidirectional transformers for language understanding](https://aclanthology.org/N19-1423/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_m9bbH_7ECE1h3lZ3D61TYg52rKpifVNjL4fvJ85uqggrXsWDBTB7YooFLJeNXHWqhvOyC) | 2019 |
+| [Mamba: Linear-time sequence modeling with selective state spaces](https://openreview.net/forum?id=tEYskw1VY2) | 2024 |
+| [A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers](https://arxiv.org/abs/2412.11293) | 2024 |
 
 ### Brain Networks and Neuroscience Applications
 Hyperbolic models applied to brain network analysis and neuroscience research.
 
 | Paper Title | Year |
 |-------------|------|
-| Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline | 2024 |
-| Fully Hyperbolic Neural Networks: A Novel Approach to Studying Aging Trajectories | 2024 | 
-| Navigating Memorability Landscapes: Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory | 2024 |
+| [Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline](https://pubmed.ncbi.nlm.nih.gov/37961615/) | 2024 |
+| [Fully Hyperbolic Neural Networks: A Novel Approach to Studying Aging Trajectories](https://www.biorxiv.org/content/10.1101/2024.10.01.616153v1) | 2024 | 
+| [Navigating Memorability Landscapes: Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory](https://www.biorxiv.org/content/10.1101/2024.09.22.614329v1) | 2024 |
 | Hyperbolic geometry of the olfactory space | 2018 |
 | Neural manifolds for the control of movement | 2017 | 
 | Nonlinear manifolds underlie neural population activity during behaviour | 2024 | 
