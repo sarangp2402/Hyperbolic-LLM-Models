@@ -128,8 +128,8 @@ Specialized approaches and technical innovations for hyperbolic learning.
 
 ### Core LLM, Transformer and Mamba Foundations
 
-| Paper Title | Year | Code Link | Dataset Link |
-|-------------|------|-----------|--------------|
+| Paper Title | Year | 
+|-------------|------|
 | [Attention is all you need](https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | 2017 | 
 | [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) | 2023 | 
 | [Gemini: a family of highly capable multimodal models](https://arxiv.org/abs/2312.11805) | 2023 | 
