@@ -78,7 +78,7 @@ Graph neural networks adapted for hyperbolic space representations.
 
 | Paper Title | Year | Journal/Conference |
 |-------------|------|---------|
-| [Hyperbolic graph neural networks]([https://arxiv.org/abs/1910.12892](https://papers.nips.cc/paper_files/paper/2019/hash/103303dd56a731e377d01f6a37badae3-Abstract.html)) | 2019 | NeurIPS |
+| [Hyperbolic graph neural networks](https://papers.nips.cc/paper_files/paper/2019/hash/103303dd56a731e377d01f6a37badae3-Abstract.html) | 2019 | NeurIPS |
 | [Hyperkg: Hyperbolic knowledge graph embeddings for knowledge base completion](https://arxiv.org/abs/1908.04895) | 2019 | arXiv | 
 | [Hyperbolic graph convolutional neural networks](https://papers.nips.cc/paper_files/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html) | 2019 | NeurIPS |
 | [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://aclanthology.org/2020.acl-main.617/) | 2020 | ACL |
