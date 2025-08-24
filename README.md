@@ -3,7 +3,20 @@ A comprehensive collection of research papers on Hyperbolic Large Language Model
 
 ## Table of Contents
 - [HypLLMs](#hypllms)
-- [Foundations, Theory and Applications](#foundations-and-theory)
+  - [Hybrid Hyperbolic-Euclidean Models](#hybrid-hyperbolic-euclidean-models)
+  - [Hyperbolic Fine-tuned Models](#hyperbolic-fine-tuned-models)
+  - [Fully Hyperbolic Models](#fully-hyperbolic-models)
+  - [Hyperbolic State-Space Models](#hyperbolic-state-space-models)
+- [Foundations, Theory and Applications](#foundations-theory-and-applications)
+  - [Hyperbolic Geometry Foundations](#hyperbolic-geometry-foundations)
+  - [Background/Motivation](#backgroundmotivation)
+  - [Hyperbolic Graph Neural Networks](#hyperbolic-graph-neural-networks)
+  - [Riemannian Optimization Techniques](#riemannian-optimization-techniques)
+  - [Numerical Stability and Challenges](#numerical-stability-and-challenges)
+  - [Specialized Techniques and Methods](#specialized-techniques-and-methods)
+  - [Core LLM, Transformer and Mamba Foundations](#core-llm-transformer-and-mamba-foundations)
+  - [Brain Networks and Neuroscience Applications](#brain-networks-and-neuroscience-applications)
+  - [Biomedical and Healthcare Applications](#biomedical-and-healthcare-applications)
 
 ---
 ## HypLLMs
