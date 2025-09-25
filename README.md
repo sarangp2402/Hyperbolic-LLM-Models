@@ -169,3 +169,17 @@ Applications of hyperbolic geometry in biomedical and healthcare domains.
 | [Hyperbolic hierarchical knowledge graph embeddings for biological entities](https://www.sciencedirect.com/science/article/pii/S1532046423002241) | 2023 | JBI |
 
 ---
+
+## Citation
+
+If you find this repository and our paper useful, please cite our publication:
+
+*Sarang Patil, Zeyong Zhang, Yiran Huang, Tengfei Ma, Mengjia Xu. Hyperbolic Large Language Models. arXiv preprint arXiv:2509.05757 (2025). [arxiv](https://arxiv.org/abs/2509.05757)*
+
+```bibtex
+@article{patil2025hyperbolic,
+  title={Hyperbolic Large Language Models},
+  author={Patil, Sarang and Zhang, Zeyong and Huang, Yiran and Ma, Tengfei and Xu, Mengjia},
+  journal={arXiv preprint arXiv:2509.05757},
+  year={2025}
+}
