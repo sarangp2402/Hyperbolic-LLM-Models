@@ -154,9 +154,9 @@ Hyperbolic models applied to brain network analysis and neuroscience research.
 | Paper Title | Year | Journal/ Conference |
 |-------------|------|---------|
 | [Neural manifolds for the control of movement](https://www.sciencedirect.com/science/article/pii/S0896627317304634) | 2017 | Neuron |
-| [Hyperbolic geometry of the olfactory space](https://www.science.org/doi/10.1126/sciadv.aaq1458) | 2018 | AAAS |
-| [Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline](https://pubmed.ncbi.nlm.nih.gov/37961615/) | 2024 | IEEE |
-| [Fully Hyperbolic Neural Networks: A Novel Approach to Studying Aging Trajectories](https://www.biorxiv.org/content/10.1101/2024.10.01.616153v1) | 2024 | bioRxiv |
+| [Hyperbolic geometry of the olfactory space](https://www.science.org/doi/10.1126/sciadv.aaq1458) | 2018 | Science Advances |
+| [Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline](https://ieeexplore.ieee.org/abstract/document/10564006) | 2024 | IEEE JHBI |
+| [Fully Hyperbolic Neural Networks: A Novel Approach to Studying Aging Trajectories]([https://www.biorxiv.org/content/10.1101/2024.10.01.616153v1](https://pubmed.ncbi.nlm.nih.gov/40048331/)) | 2025 | IEEE JBHI |
 | [Navigating Memorability Landscapes: Hyperbolic Geometry Reveals Hierarchical Structures in Object Concept Memory](https://www.biorxiv.org/content/10.1101/2024.09.22.614329v1) | 2024 | bioRxiv |
 | [Nonlinear manifolds underlie neural population activity during behaviour](https://pubmed.ncbi.nlm.nih.gov/37503015/) | 2024 | bioRxiv |
 
