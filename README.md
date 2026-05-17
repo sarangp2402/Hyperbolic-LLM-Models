@@ -1,6 +1,37 @@
 # Hyperbolic-LLM-Models
 A comprehensive collection of research papers on Hyperbolic Large Language Models with paper titles, publication years, code links, and dataset links.
 
+## 🚀 Implementation Available
+
+This repository now includes **production-ready implementations** of three hyperbolic LLM architectures:
+
+1. **VAE Faithful** - Variational Autoencoder with hyperbolic latent space
+2. **Simple Encoder-Decoder** - Separated gradient flow for hierarchical learning
+3. **Token Mamba** - Selective state-space model with hyperbolic embeddings
+
+### Quick Start
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run tests
+python tests/test_models.py
+
+# Run examples
+python examples.py
+
+# Verify all fixes
+python verify_fixes.py
+```
+
+### Documentation
+- **[IMPLEMENTATION.md](IMPLEMENTATION.md)** - Architecture and usage guide
+- **[SUMMARY.md](SUMMARY.md)** - Comprehensive implementation summary
+- **[examples.py](examples.py)** - Working examples for all models
+- **[verify_fixes.py](verify_fixes.py)** - Verification of all architectural fixes
+
+---
+
 ## Table of Contents
 - [HypLLMs](#hypllms)
   - [Hybrid Hyperbolic-Euclidean Models](#hybrid-hyperbolic-euclidean-models)
