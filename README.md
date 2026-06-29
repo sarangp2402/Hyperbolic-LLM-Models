@@ -48,7 +48,6 @@ Parameter-efficient fine-tuning methods that adapt pre-trained LLMs to hyperboli
 |-------------|------|---------|-----------|--------------|
 | [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) | 2024 | arXiv | [Code](https://github.com/marlin-codes/HypLLM) | [MAWPS](https://github.com/sroy9/mawps), [SVAMP](https://github.com/arkilpatel/SVAMP), [GSM8K](https://github.com/openai/grade-school-math), [AQuA](https://github.com/google-deepmind/AQuA)|
 | [Enhancing llm complex reasoning capability through hyperbolic geometry](https://openreview.net/forum?id=5lFiIVza6x&referrer=%5Bthe%20profile%20of%20Rex%20Ying%5D(%2Fprofile%3Fid%3D~Rex_Ying1)) | 2024 | PMLR | - | [MAWPS](https://github.com/sroy9/mawps), [SVAMP](https://github.com/arkilpatel/SVAMP), [GSM8K](https://github.com/openai/grade-school-math), [AQuA](https://github.com/google-deepmind/AQuA)|
-| [HALO: Hyperbolic Adaptation via LoRA Overlay for Hierarchy-Aware Cross-Modal Retrieval](https://sigir2026.org/en-AU/pages/program/accepted-papers) | 2026 | SIGIR (Short Paper) | - | cross-modal retrieval benchmarks |
 
 ### Fully Hyperbolic Models
 Models that operate entirely within hyperbolic space.
@@ -57,7 +56,7 @@ Models that operate entirely within hyperbolic space.
 | [Hypformer: Exploring efficient transformer fully in hyperbolic space](https://arxiv.org/abs/2407.01290) | 2024 | KDD | [Code](https://github.com/marlin-codes/hyperbolicTransformer) | [Amazon2M](https://ogb.stanford.edu/docs/nodeprop/), [ogbn-proteins](https://ogb.stanford.edu/docs/nodeprop/), [ogbn-arxiv](https://ogb.stanford.edu/docs/nodeprop/), [ogbn-papers100M](https://ogb.stanford.edu/docs/nodeprop/)|
 | [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722) | 2025 | arXiv | [Code](https://github.com/graph-and-geometric-learning/helm) | [MMLU](https://github.com/hendrycks/test?tab=readme-ov-file), [ARC-Challenging](https://huggingface.co/datasets/allenai/ai2_arc), [CommonsenseQA](https://huggingface.co/datasets/tau/commonsense_qa), [HellaSwag](https://rowanzellers.com/hellaswag/), [OpenBookQA](https://huggingface.co/datasets/allenai/openbookqa) |
 | [Hypercore: The core framework for building hyperbolic foundation models with comprehensive modules](https://arxiv.org/abs/2504.08912) | 2025 | arXiv | [Code](https://github.com/Graph-and-Geometric-Learning/HyperCore) | [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html), [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html), [ImageNet](https://image-net.org/index.php), [RedCaps](https://redcaps.xyz/), [WebQSP](https://www.microsoft.com/en-us/download/details.aspx?id=52763)|
-| [Lorentzian Residual Neural Networks](https://dl.acm.org/doi/10.1145/3690624.3709292) | 2025 | KDD | - | standard graph/image benchmarks |
+| [Lorentzian Residual Neural Networks](https://dl.acm.org/doi/10.1145/3690624.3709292) | 2025 | KDD | [Code](https://github.com/heneil/LRN) | standard graph/image benchmarks |
 
 ### Hyperbolic State-Space Models
 State-space models (like Mamba) extended to hyperbolic geometry for efficient sequence modeling.
@@ -67,7 +66,7 @@ State-space models (like Mamba) extended to hyperbolic geometry for efficient se
 | [SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering](https://arxiv.org/abs/2406.09833) | 2024 | arXiv | - | [MUSIC-AVQA](https://gewu-lab.github.io/MUSIC-AVQA/), [AVQA](https://mn.cs.tsinghua.edu.cn/avqa/) |
 | [Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings](https://arxiv.org/abs/2505.18973) | 2025 | arXiv | [Code](https://github.com/BerryByte/HiM) | [WordNet](https://zenodo.org/records/14036213), [FoodOn](https://zenodo.org/records/14036213), [DOID](https://zenodo.org/records/14036213), [SNOMED](https://zenodo.org/records/14036213) |
 | [HMamba: Hyperbolic Mamba for Sequential Recommendation](https://arxiv.org/abs/2505.09205) | 2025 | arXiv | - | [MovieLens-1M](https://grouplens.org/datasets/movielens/1m/), Texas, California, New York |
-| [Hyperbolic-Enhanced Mixture-of-Experts Mamba for Sequential Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/38567) | 2026 | AAAI | - | sequential-recommendation benchmarks |
+| [Hyperbolic-Enhanced Mixture-of-Experts Mamba for Sequential Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/38567) | 2026 | AAAI | - | [Books] [Toys] [NYC] [TKY] |
 
 ---
 
